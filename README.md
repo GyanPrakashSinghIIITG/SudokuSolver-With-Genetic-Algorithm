@@ -15,5 +15,8 @@ python sudokuGa.py board2
 python sudokuGa.py board3
          or
 python sudokuGa.py board4
+
+
+some parameters like population size etc. can be changed inside the code itself.
          
 
